@@ -4,13 +4,6 @@
 
 :heart: Recommend
 
-<div align="center">
-<a href="https://github.com/fh66/ui-code">
-    <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=fh66&repo=compoents&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-  <a href="https://github.com/fh66/fh66">
-    <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=fh66&repo=fh66.me&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
-
 ![img](./profile-snake-contrib/github-contribution-grid-snake.svg)
 
 🧰 Tools:
